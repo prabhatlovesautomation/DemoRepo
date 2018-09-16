@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98324" started-at="2018-09-15T19:56:12Z" finished-at="2018-09-15T19:57:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98324" started-at="2018-09-15T19:56:12Z" finished-at="2018-09-15T19:57:50Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="setup" is-config="true" duration-ms="31468" started-at="2018-09-15T19:56:13Z" finished-at="2018-09-15T19:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="validateCreateNewContact" duration-ms="2921" started-at="2018-09-15T19:56:44Z" data-provider="getCRMTestData" finished-at="2018-09-15T19:56:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="teardown" is-config="true" duration-ms="0" started-at="2018-09-15T19:56:47Z" finished-at="2018-09-15T19:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="setup" is-config="true" duration-ms="30192" started-at="2018-09-15T19:56:47Z" finished-at="2018-09-15T19:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="validateCreateNewContact" duration-ms="2244" started-at="2018-09-15T19:57:17Z" data-provider="getCRMTestData" finished-at="2018-09-15T19:57:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cris]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[amazon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="teardown" is-config="true" duration-ms="0" started-at="2018-09-15T19:57:19Z" finished-at="2018-09-15T19:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="setup" is-config="true" duration-ms="28351" started-at="2018-09-15T19:57:19Z" finished-at="2018-09-15T19:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="validateCreateNewContact" duration-ms="2491" started-at="2018-09-15T19:57:48Z" data-provider="getCRMTestData" finished-at="2018-09-15T19:57:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrs.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mukta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sharma]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ebay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@306279ee]" name="teardown" is-config="true" duration-ms="1" started-at="2018-09-15T19:57:50Z" finished-at="2018-09-15T19:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FA84-16A2
+
+ Directory of C:\Users\USER\Desktop\javaworkspace\FreeCRM
+
+16-09-2018  17:20    <DIR>          .
+16-09-2018  17:20    <DIR>          ..
+04-09-2018  19:17             1,064 .classpath
+04-09-2018  19:17               559 .project
+04-09-2018  19:17    <DIR>          .settings
+16-09-2018  17:20                 0 listmyfolder.tx
+15-09-2018  13:06             1,197 pom.xml
+04-09-2018  19:16    <DIR>          src
+04-09-2018  19:17    <DIR>          target
+16-09-2018  01:12    <DIR>          test-output
+               4 File(s)          2,820 bytes
+               6 Dir(s)  33,989,132,288 bytes free
